@@ -1,0 +1,12 @@
+# GitCommitFileRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**path** | **String** |  | 
+**content** | [**crate::models::GitFileContent**](GitFileContent.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

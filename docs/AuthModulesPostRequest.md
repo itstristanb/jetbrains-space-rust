@@ -1,0 +1,15 @@
+# AuthModulesPostRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**key** | **String** |  | 
+**name** | **String** |  | 
+**enabled** | **bool** |  | 
+**icon_data_uri** | Option<**String**> |  | [optional]
+**settings** | [**crate::models::EsAuthModuleSettings**](ES_AuthModuleSettings.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
